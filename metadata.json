@@ -1,0 +1,6 @@
+{
+  "name": "PrimeEstates Pro — BrokerDesk & Lead Qualifier",
+  "description": "Automated real estate lead engagement, qualification, and decision engine powered by Gemini AI and SQLite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
